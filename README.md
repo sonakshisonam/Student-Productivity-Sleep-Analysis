@@ -1,4 +1,10 @@
 # Student-Productivity-Sleep-Analysis
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Machine Learning project to analyze student sleep behaviour and productivity using Python and Streamlit.
 ## About
 This project is based on a simple idea:  
