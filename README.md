@@ -78,8 +78,8 @@ Student-Productivity-Sleep-Analysis/
 ## Application Preview
 
 <p align="center">
-  <img src="app_screenshot_input.png" width="600"/>
-  <img src="app_screenshot_output.png" width="600"/>
+  <img src="app_screenshot_input.png" width="650"/>
+  <img src="app_screenshot_output.png" width="650"/>
 </p>
 
 
