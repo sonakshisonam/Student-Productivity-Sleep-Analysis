@@ -72,3 +72,8 @@ Student-Productivity-Sleep-Analysis/
 ├── student_data.xlsx        # Dataset file used for training
 ├── requirements.txt         # Required python libraries
 └── Project Report.pdf       # Internship project report
+---
+## Application Preview
+
+![Application Screenshot](app_screenshot_input.png)
+![Application Screenshot](app_screenshot_output.png)
