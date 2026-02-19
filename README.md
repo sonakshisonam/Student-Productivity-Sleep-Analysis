@@ -39,17 +39,6 @@ based on daily lifestyle data.
 5. Built a Streamlit web app for prediction.
 
 ---
-
-## How to Run the Project
-
-Install dependencies:
-pip install -r reqirement.txt
-
-Run the application:
-straemlit run analyzer_app.py
-
----
-
 ## Features
 
 - Predicts sleep quality
@@ -67,8 +56,20 @@ This project helped me understand:
   
 ---
 
-## Project Structure
 
+## How to Run the Project
+
+Install dependencies:
+pip install -r reqirement.txt
+
+Run the application:
+straemlit run analyzer_app.py
+
+---
+
+
+## Project Structure
+```
 Student-Productivity-Sleep-Analysis/
 │
 ├── analyzer_app.py          # Streamlit application file
@@ -78,8 +79,8 @@ Student-Productivity-Sleep-Analysis/
 ├── student_data.xlsx        # Dataset file used for training
 ├── requirements.txt         # Required python libraries
 └── Project Report.pdf       # Internship project report
+```
 ---
-## Application Preview
 
 ## Application Preview
 
@@ -88,4 +89,24 @@ Student-Productivity-Sleep-Analysis/
   <img src="app_screenshot_output.png" width="650"/>
 </p>
 
+---
+
+## Demo Output
+
+After entering daily habits like study hours, screen time, sleep hours, caffeine intake and physical activity:
+
+- The model predicts Sleep Quality Score
+- The model predicts Productivity Score
+- It also gives category like Low / Moderate / High
+
+The application provides suggestions based on the prediction results.
+
+---
+## Future Improvements
+
+- Add more real student dataset for better accuracy
+- Apply advanced ML models like Random Forest
+- Deploy the project on Streamlit Cloud
+- Add data visualization dashboard
+- Improve model accuracy using feature engineering
 
