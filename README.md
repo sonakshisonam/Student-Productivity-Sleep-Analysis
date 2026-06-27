@@ -65,8 +65,8 @@ Follow these steps to set up and run the application locally:
    ```bash
    pip install -r requirements.txt
    
-   streamlit run analyzer_app.py
-   ```
+   streamlit run analyzer_app.py```
+   
 ---
 
 
